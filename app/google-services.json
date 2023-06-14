@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378985597011",
+    "firebase_url": "https://stims-webapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stims-webapp",
+    "storage_bucket": "stims-webapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378985597011:android:1090f2f0412a50cacc1ea6",
+        "android_client_info": {
+          "package_name": "com.example.stims_studentedition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378985597011-pgilaacfi9injjvig6421f3ddn0v7ubb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiPI0K_0XsejXTm5PwCKp-3DZ1tRJr1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378985597011-pgilaacfi9injjvig6421f3ddn0v7ubb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
